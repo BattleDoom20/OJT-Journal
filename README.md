@@ -3,7 +3,7 @@ Whole OJT Journal
 
 80 hours
 
-- NOVEMBER
+NOVEMBER
 
 November 16, 2018
 - Building my own PC
@@ -51,9 +51,7 @@ November 28, 2018
 November 29, 2018
 - Started creating an ERD for the Payroll System
 
-- DECEMBER
-
-
+DECEMBER
 
 December 03, 2018
 - Design the database using Microsoft Excel or Google Spreadsheet
