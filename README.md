@@ -33,6 +33,9 @@ November 22, 2018
 - Use Git on my local PC repository
 - Transfer local repository to GitHub account
 
+November 24, 2018
+- Transfer local repository to GitHub account
+
 November 26, 2018
 - Forking other's repository
 - Designing a prototype' structure for the Payroll System
