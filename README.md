@@ -50,8 +50,6 @@ November 28, 2018
 - Transfer a repository from my GitHub account into my PC/Desktop
 - Cloning my own repository
 - Create a flowchart on how the Payroll System will work
-
-November 29, 2018
 - Started creating an ERD for the Payroll System
 
 DECEMBER
