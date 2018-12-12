@@ -70,3 +70,6 @@ December 06, 2018
 
 December 10, 2018
 - Continued designing the ERD
+
+December 11, 2018
+- Continued designing the ERD
